@@ -12,22 +12,23 @@ To support a data-based business decision, they are looking for suggestions and 
 
 **Database Components:**
 The EER (Extended Entity-Relationship) diagram that models the structure of the Mint Classics database is provided here:
+
 ![image](https://github.com/user-attachments/assets/cc042933-94c6-46a2-940c-708f468d1b7a)
 
 
-****Method of approach :****
+**Method of approach :**
 The approach followed is to consider required insights and questions that need to be answered:
 Q1: Which warehouse to eliminate?
 Q2: Which warehouse can handle more items/products if required tansferring?
 Q3: Which is the highest earning warehouse?
 Q4: Which employees will be moved to which location?
 
-****Features of approach:****
+**Features of approach:**
 1. Explainability of queries with each approach.
 2. Filtered data and new creations as per needed.
 3. Edit, delete, and mark tasks as complete, thus adequate time management.
 
-****Results****:
+**Results**:
 1. Successfully gained insights required.
 2. uploadation amd storage of files and documents.
 3. Knowledge earned with each steps.
