@@ -1,0 +1,2 @@
+## Analyzing total quantity ordered  from each warehouse using product_order_joined entity. 
+select sum(quantityOrdered) as Total_quantity_order , warehouseCode from product_order_joined group by warehouseCode order by Total_quantity_order DESC;
