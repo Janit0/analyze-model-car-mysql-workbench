@@ -18,6 +18,7 @@ The EER (Extended Entity-Relationship) diagram that models the structure of the 
 
 **Method of approach :**
 The approach followed is to consider required insights and questions that need to be answered:
+
 Q1: Which warehouse to eliminate?
 Q2: Which warehouse can handle more items/products if required tansferring?
 Q3: Which is the highest earning warehouse?
